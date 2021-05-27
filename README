@@ -1,4 +1,5 @@
-This project is a tool that will help you win in Scrabble! The simple GUI allows you to enter any amount of characters, outputting a list of valid words sorted in order of Scrabble points. 
+This project is a tool that will help you win in Scrabble! The simple GUI allows you to enter any amount of characters, outputting a list of valid words sorted 
+in order of Scrabble points. 
 
 I hope to return to this project to implement more features such as:
 - "must include this letter" feature 
